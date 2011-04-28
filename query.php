@@ -21,7 +21,6 @@
 	//API variables
 	$api_key = '<YOUR API_KEY>';
 	$webhook = '<URL TO YOUR WEBHOOK>';
-	$img = '@'.realpath($target).';type=image/jpg';
 	$img = '@'.realpath($target);
 	$json = '1';
 	$api_secret = '<YOUR API_SECRET>';
